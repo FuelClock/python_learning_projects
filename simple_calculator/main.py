@@ -1,6 +1,6 @@
 def calculator():
     number1 = float(input("Enter your first number:"))
-    action = input("What action do you want to perform? +,-,*,/")
+    action = input("What action do you want to perform? (+,-,*,/): ")
     number2 = float(input("Enter your second number:"))
 
 
